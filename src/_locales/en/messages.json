@@ -1,0 +1,233 @@
+{
+  "CONTACT_particles_hiddenElementTitle": {
+    "message": "This chat was hidden by Zen Mode"
+  },
+  "WA_contactCtxMenuItem_cancelZenMorning": {
+    "message": "Cancel Zen Morning",
+    "description": "WA contact ctx menu item that turn zen morning for contact"
+  },
+  "WA_contactCtxMenuItem_hide": {
+    "message": "Snooze chat",
+    "description": "WA contact ctx menu item that hides the contact"
+  },
+  "WA_contactCtxMenuItem_unhide": {
+    "message": "Unhide chat",
+    "description": "WA contact ctx menu item that unhides the contact"
+  },
+  "WA_contactCtxMenuItem_zenMorning": {
+    "message": "\uD83C\uDF1E Zen Morning",
+    "description": "WA contact ctx menu item that turn zen morning for contact"
+  },
+  "WA_contactCtxMenuItem_mark_unread": {
+    "message": "Mark unread",
+    "description": "WA contact ctx menu item that marks chat as unread"
+  },
+  "ZM_ctxMenuItem_contactUs": {
+    "message": "Contact us",
+    "description": "ZM ctx menu item that opens 'mailto:' link"
+  },
+  "ZM_ctxMenuItem_hiddenChats": {
+    "message": "Hidden chats",
+    "description": "ZM ctx menu item that displays hidden chats"
+  },
+  "ZM_ctxMenuItem_releaseNotes": {
+    "message": "Release Notes",
+    "description": "ZM ctx menu item that displays release notes widget"
+  },
+  "ZM_ctxMenuItem_smartMute_OFF": {
+    "message": "Unmute notification sounds",
+    "description": "ZM ctx menu item that toggle Smart Mute mode."
+  },
+  "ZM_ctxMenuItem_smartMute_ON": {
+    "message": "Mute notifications' sounds",
+    "description": "ZM ctx menu item that toggle Smart Mute mode."
+  },
+  "ZM_ctxMenuItem_smartMute_desc": {
+    "message": "Mutes all sounds except audio and video messages you play",
+    "description": "To clarify to user we would like hover text upon menu command."
+  },
+  "ZM_ctxMenuItem_unhideAll": {
+    "message": "Unhide all",
+    "description": "ZM ctx menu item that unhides all hidden contacts"
+  },
+  "ZM_ctxMenuItem_zenMode": {
+    "message": "Zen Mode"
+  },
+  "ZM_ctxMenuItem_debugModeCopyToClipboard": {
+    "message": "Copy extension log to clipboard"
+  },
+  "ZM_ctxMenuItem_debugModeClearLog": {
+    "message": "Clear extension logs"
+  },
+  "ZM_ctxMenuItem_offline_mode": {
+    "message": "Offline mode"
+  },
+  "ZM_ctxMenuItem_pinned_status": {
+    "message": "Show pinned chats status"
+  },
+  "ZM_hidden": {
+    "message": "Hidden",
+    "description": "Used to hidden label for chat element."
+  },
+  "ZM_hiddenChats": {
+    "message": "Hidden Chats"
+  },
+  "ZM_ctxMenuItem_debug_mode": {
+    "message": "Debug mode",
+    "description": "ZM ctx menu item that toggle debug mode."
+  },
+  "ZM_noBtn": {
+    "message": "no"
+  },
+  "ZM_noHiddenChats": {
+    "message": "No hidden chats"
+  },
+  "ZM_onboarding_page_title": {
+    "message": "You need to refresh Whatsapp Web for Zen Mode to work.",
+    "description": "Popup title after install"
+  },
+  "ZM_onboarding_page_agree": {
+    "message": "Ok"
+  },
+  "ZM_releaseNotes": {
+    "message": "Release Notes",
+    "description": "Same for all languages"
+  },
+  "ZM_yesBtn": {
+    "message": "yes"
+  },
+  "ZM_zenMorning_description": {
+    "message": "Wake up every morning with Zen mode dedicated to this conversation. Please note, this will disable all previously selected Zen Morning conversations."
+  },
+  "appDescription": {
+    "message": "Simplifies Whatsapp Web and helps you focus",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "extnNameForTesters": {
+    "message": "Zen Mode (for whatsapp - Alpha)",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "extnNameForPublic": {
+    "message": "Zen Mode (for whatsapp - Beta)",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "extnNameForDebugLog": {
+    "message": "Zen Mode (for whatsapp - Debug log)",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "ZM_ctxMenuItem_settings": {
+    "message": "Settings",
+    "description": "ZM ctx menu item that opens settings menu"
+  },
+  "ZM_Trello_Hide_Options": {
+    "message": "Hide other columns"
+  },
+  "ZM_hide_popup_title": {
+    "message": "Hide chat for"
+  },
+  "ZM_hide_popup_hours": {
+    "message": "8 hours"
+  },
+  "ZM_hide_popup_week": {
+    "message": "1 week"
+  },
+  "ZM_hide_popup_day": {
+    "message": "1 day"
+  },
+  "ZM_ctxMenuItem_unreadChats": {
+    "message": "Unread chats"
+  },
+  "ZM_navigation_unreadChats": {
+    "message": "Unread chats"
+  },
+  "ZM_update_notification_message": {
+    "message": "There is a version update for Zen Mode.\nA refresh is needed to activate the new version."
+  },
+  "ZM_update_notification_ok_button_label": {
+    "message": "Ok"
+  },
+  "ZM_Trello_Show_Options": {
+    "message": "Show other columns"
+  },
+  "ZM_Trello_Context_ZenMode": {
+    "message": "Zen Mode"
+  },
+  "ZM_visibilty_sheduler_description": {
+    "message": "You'll only see this chat in the days/hours you choose."
+  },
+  "ZM_visibilty_sheduler_description1": {
+    "message": "(you can always access it via archived groups or Show Hidden Groups)"
+  },
+  "ZM_visibilty_sheduler_title": {
+    "message": "Visibility Schedule"
+  },
+  "ZM_visibilty_sheduler_All_the_time": {
+    "message": "All the time"
+  },
+  "ZM_visibilty_sheduler_weekdays": {
+    "message": "Weekdays"
+  },
+  "ZM_visibilty_sheduler_custom": {
+    "message": "Custom"
+  },
+  "ZM_visibilty_sheduler_time_selector_none": {
+    "message": "none"
+  },
+  "ZM_visibilty_sheduler_Monday": {
+    "message": "Monday"
+  },
+  "ZM_visibilty_sheduler_Tuesday": {
+    "message": "Tuesday"
+  },
+  "ZM_visibilty_sheduler_Wednesday": {
+    "message": "Wednesday"
+  },
+  "ZM_visibilty_sheduler_Thursday": {
+    "message": "Thursday"
+  },
+  "ZM_visibilty_sheduler_Friday": {
+    "message": "Friday"
+  },
+  "ZM_visibilty_sheduler_Saturday": {
+    "message": "Saturday"
+  },
+  "ZM_visibilty_sheduler_Sunday": {
+    "message": "Sunday"
+  },
+  "WA_contactCtxMenuItem_visibiltySheduler": {
+    "message": "\uD83D\uDD50 Visibility Schedule"
+  },
+  "ZM_visibilty_sheduler_Warning": {
+    "message": "This action will cancel the visibility schedule"
+  },
+  "ZM_visibilty_sheduler_confirmation_button_label": {
+    "message": "Ok"
+  },
+  "ZM_visibilty_sheduler_weekdays_description": {
+    "message": "(Weekdays are Sunday-Thursday)"
+  },
+  "ZM_visibilty_sheduler_close_popup_title": {
+    "message": "Cancel your changes?"
+  },  
+  "ZM_visibilty_sheduler_close_popup_yes_button": {
+    "message": "Yes"
+  },    
+  "ZM_visibilty_sheduler_close_popup_no_button": {
+    "message": "No"
+  },      
+  "pinnedChatsStatus_group_typing": {
+    "message": "Someone in \"%chat_title\" is typing…"
+  },
+  "pinnedChatsStatus_user_typing": {
+    "message": "\"%chat_title\" is typing…"
+  },
+  "pinnedChatsStatus_group_recording": {
+    "message": "Someone in \"%chat_title\" is recording…"
+  },
+  "pinnedChatsStatus_user_recording": {
+    "message": "\"%chat_title\" is recording…"
+  },
+  "pinned_chat_onboarding": {
+    "message": "Show pinned chat status is on! You can change the mode in Zen Mode menu"
+  }
+}
